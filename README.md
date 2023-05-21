@@ -11,7 +11,7 @@
 </p>
 
 - 👋 Hi, I’m @dorimiamn
-- 👀 I’m interested in Competive Programming and Web Programming
+- 👀 I’m interested in Competive Programming , Web Programming , and Computer Science.
 - 🌱 I’m currently learning Mathematics.
 <!---
 - 💞️ I’m looking to collaborate on ...
