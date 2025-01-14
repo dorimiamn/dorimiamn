@@ -12,7 +12,7 @@
 
 - 👋 Hi, I’m @dorimiamn
 - 👀 I’m interested in Competive Programming , Web Programming , and Computer Science.
-- 🌱 I’m currently learning Mathematics.
+- 🌱 I’m currently learning Mathematics and Data Science.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
